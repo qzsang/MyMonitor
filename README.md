@@ -5,3 +5,5 @@
 以便于定位哪里发生卡顿，具体实现效果如下：
 
 ![这里写图片描述](https://github.com/qzsang/MyMonitor/blob/master/doc/img.png)
+
+BlockCanary ： https://github.com/markzhai/AndroidPerformanceMonitor
